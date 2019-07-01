@@ -1,7 +1,9 @@
 # K2Documentation.Samples.SmartObjectRuntime.SmartObjectADOProvider
-This project contains sample code that shows how to use the K2 ADO.NET provider dll to execute SQL-Like queries against K2 SmartObjecta at runtime, such as:  
+This project contains sample code that shows how to use the K2 ADO.NET provider dll to execute SQL-Like queries against K2 SmartObjects at runtime, such as:  
 * reading a signle record
 * retrieving multiple records
+
+Find more information about this API in the K2 Developers Reference at https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Runtime/SmOADO/ADOIntro.htm
 
 ## Prerequisites
 The sample code has the following dependencies: 
